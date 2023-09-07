@@ -2,8 +2,7 @@ A manuscript detailing this work has been submitted to a scientific journal. A l
 
 ## Mid-latitude cyclone
 
-https://user-images.githubusercontent.com/28195522/266222197-67f2182f-7fa7-4f0c-9bed-d25568d047db.mp4
-<video src="https://user-images.githubusercontent.com/28195522/266222197-67f2182f-7fa7-4f0c-9bed-d25568d047db.mp4" controls="controls" style="max-width: 1600px;">
+<video src="https://user-images.githubusercontent.com/28195522/266222197-67f2182f-7fa7-4f0c-9bed-d25568d047db.mp4" controls="controls">
 </video>
 
 Work in progress.
