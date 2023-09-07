@@ -4,7 +4,6 @@ A link to the manuscript will appear here when it is made public.
 </p>
 
 <center><h2>Interactive TIWC in typhon Nanmadol</h2></center>
-
 <p align="center"><small>Opens in a new window</small></p>
 <div style="width:100%;height:100%;overflow:hidden;"> 
   <a href="http://spfrnd.de/data/nanmadol.html" target="_blank">
