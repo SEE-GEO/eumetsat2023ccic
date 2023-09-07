@@ -9,7 +9,7 @@ A link to the manuscript will appear here when it is made public.
 
 <div style="width:100%;height:100%;overflow:hidden;"> 
   <a href="https://see-geo.github.io/eumetsat2023ccic/" target="_blank">
-    <img src="/assets/nanmadol.png" alt="TIWC in Typhon Nanmadol on 2022-09-17 12:00 UTC, interactive plot." style="width:100%;height:100%;" />
+    <img src="assets/nanmadol.png" alt="TIWC in Typhon Nanmadol on 2022-09-17 12:00 UTC, interactive plot." style="width:100%;height:100%;" />
   </a>
 </div>
 
