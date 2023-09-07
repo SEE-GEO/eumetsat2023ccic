@@ -4,7 +4,9 @@ A manuscript detailing this work has been submitted to a scientific journal. A l
 
 ## Mid-latitude cyclone
 
-https://github.com/SEE-GEO/eumetsat2023ccic/raw/main/videos/mid-latitude_cyclone.mp4
+<video controls>
+  <source src="videos/mid-latitude_cyclone.mp4" type="video /mpeg">
+</video >
 
 Work in progress.
 
