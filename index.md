@@ -1,10 +1,8 @@
-# The Chalmers Cloud Ice Climatology (CCIC)
-
 A manuscript detailing this work has been submitted to a scientific journal. A link to the manuscript will appear here when it is made public.
 
 ## Mid-latitude cyclone
 
-<video src="http://spfrnd.de/presentations/srs/mlc_log.mp4"></video>
+<video src="http://spfrnd.de/presentations/srs/mlc_log.mp4"/>
 
 Work in progress.
 
