@@ -12,6 +12,8 @@ A link to the manuscript will appear here when it is made public.
   </a>
 </div>
 
+---
+
 <center><h2>Mid-latitude cyclone</h2></center>
 
 <div style="width:100%;height:100%;overflow:hidden;"> 
@@ -19,9 +21,13 @@ A link to the manuscript will appear here when it is made public.
   </video>
 </div>
 
+---
+
 ## TIWP evolution for January 2020
 
 Work in progress.
+
+---
 
 ## Average TIWC for 2020
 
