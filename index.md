@@ -5,7 +5,7 @@ A manuscript detailing this work has been submitted to a scientific journal. A l
 ## Mid-latitude cyclone
 
 <video controls>
-  <source src="videos/mid-latitude_cyclone.mp4" type="video /mpeg">
+  <source src="/videos/mid-latitude_cyclone.mp4" type="video /mpeg">
 </video >
 
 Work in progress.
