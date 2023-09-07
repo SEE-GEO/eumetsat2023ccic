@@ -2,9 +2,7 @@ A manuscript detailing this work has been submitted to a scientific journal. A l
 
 ## Mid-latitude cyclone
 
-<video src="http://spfrnd.de/presentations/srs/mlc_log.mp4" data-canonical-src="http://spfrnd.de/presentations/srs/mlc_log.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-width:1600px; min-width: 200px">
-
-  </video>
+https://github.com/adriaat/media/assets/28195522/1745ddb6-fbbf-407b-a5c2-32dd652eb49b
 
 Work in progress.
 
