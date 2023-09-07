@@ -34,6 +34,6 @@ A link to the manuscript will appear here when it is made public.
 <center><h2>TIWC average for 2020</h2></center>
 
 <div style="width:100%;height:100%;overflow:hidden;"> 
-  <video src="https://user-images.githubusercontent.com/28195522/266377258-3f495d85-19ec-422a-b7ed-87a5769032ed.mp4" controls="controls" style="width:100%;height:100%;" title="TIWC average for 2020">
+  <video src="https://user-images.githubusercontent.com/28195522/266385242-237043c8-86f3-4a1e-9b2a-c97c8b79a5a3.mp4" controls="controls" style="width:100%;height:100%;" title="TIWC average for 2020">
   </video>
 </div>
