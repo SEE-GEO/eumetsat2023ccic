@@ -1,4 +1,7 @@
-A manuscript detailing this work has been submitted to a scientific journal. A link to the manuscript will appear here when it is made public.
+<p align="center">
+A manuscript detailing this work has been submitted to a scientific journal.
+A link to the manuscript will appear here when it is made public.
+</p>
 
 ## Mid-latitude cyclone
 
