@@ -4,9 +4,7 @@ A manuscript detailing this work has been submitted to a scientific journal. A l
 
 ## Mid-latitude cyclone
 
-<video controls>
-  <source src="http://spfrnd.de/presentations/srs/mlc_log.mp4" type="video/mp4">
-</video>
+<video src="http://spfrnd.de/presentations/srs/mlc_log.mp4"></video>
 
 Work in progress.
 
