@@ -1,5 +1,5 @@
 <p align="center">
-Paper: Amell, A., Pfreundschuh, S., and Eriksson, P.: The Chalmers Cloud Ice Climatology: Retrieval implementation and validation, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1953, 2023.
+Paper: Amell, A., Pfreundschuh, S., and Eriksson, P.: The Chalmers Cloud Ice Climatology: Retrieval implementation and validation, EGUsphere [preprint], <a href="https://doi.org/10.5194/egusphere-2023-1953">https://doi.org/10.5194/egusphere-2023-1953</a>, 2023.
 </p>
 
 <center><h2>Interactive TIWC in typhon Nanmadol</h2></center>
